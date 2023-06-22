@@ -1,17 +1,46 @@
 <!DOCTYPE html>
-<html>
-<meta name="title">
-<head>
-	<title>Rukky's World Alpha CSB</title>
-	<meta charset="UTF-8" />
-	<meta name="author" content="Itz_Rukky" />
-<meta name="description" content="Rukky's World Is A Game that you can play with freinds and create." />
-<meta name="keywords" content="free games, online games, building games, virtual worlds, free mmo, gaming cloud, physics engine" />
-</head>
+<html lang="en">
+	<head>
+		<meta charset="UTF-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+		<title>RUKKYS WORLD</title>
+	</head>
+	<body>
+		<style>
+			html {
+				box-sizing: border-box;
+			}
+			*, *:before, *:after {
+				box-sizing: inherit;
+      }
+      body {
+        margin: 0
+      }
 
-<body>
-  <h1>Welcome to Rukky's World!</h1>
-	
-</body>
+	  #play {
+		font-size: 30px;
+  text-shadow: 5px;
+  width: 200px;
+  height: 50px;
+  border: 1px solid black;
+  width: 50%;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+	  }
 
+	  #title {
+  width: 50%;
+  position: absolute;
+  top: 30%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  user-select: none;
+}
+		</style>
+		<img id="title" src="https://i.imgur.com/nhPnA3v.png">
+		<a onclick="hidetitle()"><a onclick="run()"><button id="play" onclick="hideplay()" onclick="run()">Play</button></a></a>
+		<script src="index.js"></script>
+	</body>
 </html>
