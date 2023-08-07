@@ -1,0 +1,18 @@
+{
+  "name": "rw-javascript-runtime",
+  "version": "1.0.0",
+  "description": "This is the Powering-Imagination Website Kind Of like Roblox where you can explore worlds and play with friends!, you might already play this game but this is an alternative to roblox which is very kid to adult friendly.",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "consolemessage": "echo \"Welcome to Rukky's World!\""
+  },
+  "keywords": [
+    "Rw",
+    "Javascript",
+    "Roblox",
+    "Rukky"
+  ],
+  "author": "Rukky",
+  "license": "ISC"
+}
