@@ -1,0 +1,113 @@
+*{
+    margin: 0;
+}
+
+body {
+    background-color: #eeeeee;
+    font-family: monospace;
+}
+
+#logo {
+    margin: 6px;
+    width: 40px;
+}
+
+#header {
+    width: 1800px;
+    height: 53px;
+    background-color: rgb(219, 218, 218);
+}
+
+#homelink {
+    font-size: 37px;
+    position: relative;
+    left: 6px;
+    top: -14px;
+}
+
+#homelink:hover {
+    font-size: 37px;
+    position: relative;
+    left: 6px;
+    top: -14px;
+    background-color: rgb(201, 197, 197);
+}
+
+#discoverlink {
+    font-size: 37px;
+    position: relative;
+    left: 14px;
+    top: -14px;
+}
+
+#discoverlink:hover {
+    font-size: 37px;
+    position: relative;
+    left: 14px;
+    top: -14px;
+    background-color: rgb(201, 197, 197);
+}
+
+#aboutlink {
+    font-size: 37px;
+    position: relative;
+    left: 21px;
+    top: -14px;
+}
+
+#aboutlink:hover {
+    background-color: rgb(201, 197, 197);
+}
+
+#message {
+    position: relative;
+    transform: translate(50%, 50%);
+}
+
+#hometitle {
+    position: relative;
+    font-size: 50px;
+    left: 40px;
+    top: 30px;
+}
+
+.DefaultPfp {
+    border: 0px;
+    border-radius: 490px;
+    width: 170px;
+    user-select: none;
+    position: relative;
+    left: 170px;
+    top: -45px;
+}
+
+.DonutBoypfp {
+    border: 0px;
+    border-radius: 490px;
+    width: 170px;
+    user-select: none;
+    position: relative;
+    left: 170px;
+    top: -45px;
+}
+
+#cataloglink {
+    font-size: 37px;
+    position: relative;
+    left: 25px;
+    top: -14px;
+}
+
+#cataloglink:hover {
+    background-color: rgb(201, 197, 197);
+}
+
+.NinjaMatoPfp {
+    border: 0px;
+    border-radius: 490px;
+    width: 170px;
+    user-select: none;
+    position: relative;
+    left: 170px;
+    top: -45px;
+}

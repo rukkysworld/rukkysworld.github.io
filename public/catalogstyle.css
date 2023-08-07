@@ -1,0 +1,112 @@
+*{
+    margin: 0;
+}
+
+body {
+    background-color: #eeeeee;
+    font-family: monospace;
+}
+
+#logo {
+    margin: 6px;
+    width: 40px;
+}
+
+#header {
+    width: 1800px;
+    height: 53px;
+    background-color: rgb(219, 218, 218);
+}
+
+#homelink {
+    font-size: 37px;
+    position: relative;
+    left: 6px;
+    top: -14px;
+}
+
+#homelink:hover {
+    font-size: 37px;
+    position: relative;
+    left: 6px;
+    top: -14px;
+    background-color: rgb(201, 197, 197);
+}
+
+#discoverlink {
+    font-size: 37px;
+    position: relative;
+    left: 14px;
+    top: -14px;
+}
+
+#discoverlink:hover {
+    font-size: 37px;
+    position: relative;
+    left: 14px;
+    top: -14px;
+    background-color: rgb(201, 197, 197);
+}
+
+#aboutlink {
+    font-size: 37px;
+    position: relative;
+    left: 21px;
+    top: -14px;
+}
+
+#aboutlink:hover {
+    background-color: rgb(201, 197, 197);
+}
+
+#cataloglink {
+    font-size: 37px;
+    position: relative;
+    left: 25px;
+    top: -14px;
+}
+
+#cataloglink:hover {
+    background-color: rgb(201, 197, 197);
+}
+
+#defaultselect {
+    width: 290px;
+    height: 430px;
+    border: 3px solid black;
+}
+
+#defaultcharbtnimage {
+    width: 260px;
+}
+
+#buyorbought {
+    width: 300px;
+    height: 45px;
+    border: 2px solid black;
+    border-radius: 5px;
+}
+
+#donutboyselect {
+    width: 290px;
+    height: 430px;
+    border: 3px solid black;
+}
+
+#donutboyimage {
+    width: 260px;   
+}
+
+#ninjamatoselect {
+    width: 290px;
+    height: 430px;
+    border: 3px solid black;
+}
+
+#ninjamatoimage {
+    width: 260px;
+}
+
+#ninjamatoviewer {
+    width: 580px;
+}
